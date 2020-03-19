@@ -12,7 +12,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/sec51/qrcode/coding"
+	"github.com/gapsquare/qrcode/coding"
 )
 
 // A Level denotes a QR error correction level.
